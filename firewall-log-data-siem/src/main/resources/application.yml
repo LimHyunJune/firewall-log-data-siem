@@ -1,6 +1,11 @@
 spring:
   application:
     name: demo
+  datasource:
+    url: jdbc:mysql://localhost:3306/siem
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
 
 
 spring-doc:
@@ -11,3 +16,4 @@ spring-doc:
     operations-sorter: method  # delete - get - patch - post - put ??? ??, alpha? ???? ??? ??? ?? ??
   paths-to-match:
     - /** # swagger-ui? ??? api? ????? ??
+
