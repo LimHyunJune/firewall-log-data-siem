@@ -1,0 +1,4 @@
+rootProject.name = 'firewall-log-data-siem'
+include 'analytics-server'
+include 'data-fetcher'
+
