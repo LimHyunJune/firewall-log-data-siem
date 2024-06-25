@@ -7,6 +7,7 @@ SIEM (Security Information and Event Management) Development Project Using Firew
 **[Skills]**</br>
 - Kafka Cluster : Confluent Kafka Community (7.x.x)</br>
 - Kafka Client : Apache kafka (3.7.0)</br>
+- Debezium</br>
 - SpringBoot</br>
 - Swagger</br>
 - Redis</br>
